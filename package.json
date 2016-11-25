@@ -49,7 +49,7 @@
     "dependencies": {
         "jquery": ">=1.6",
         "jquery.ui.widget": ">=1.9",
-        "blueimp-tmpl": ">=2.1.0",
+        "blueimp-tmpl": ">=3.7.0",
         "blueimp-load-image": ">=1.5.0",
         "blueimp-canvas-to-blob": ">=2.0.5"
     }
